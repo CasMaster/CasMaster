@@ -35,8 +35,14 @@ Aqui você encontra alguns dos meus projetos, estudos e experimentos com desenvo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CasMaster&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasMaster&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CasMaster&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CasMaster&theme=github_dark" alt="Linguagens por repositório" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CasMaster&theme=github_dark" alt="Resumo do perfil GitHub" />
 </div>
 
 ---
